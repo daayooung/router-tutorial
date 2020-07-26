@@ -9,10 +9,33 @@ body {
   background: black;
   color: antiquewhite;
 }
+#root {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#root div {
+  width: 768px;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 a {
@@ -20,10 +43,8 @@ a {
   text-decoration: none;
 }
 
-li {
-  list-style: none;
-  display: inline-block;
-}
-li + li {
-  margin-left: 8rem;
+.active {
+  color: rgb(235, 233, 90);
+  border-bottom: 2px solid rgb(235, 233, 90);
+  font-weight: 600;
 }

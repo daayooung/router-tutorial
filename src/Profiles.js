@@ -5,6 +5,7 @@ import Profile from './Profile';
 const Profiles = () => {
   const activeStyle = {
     color: 'rgb(235, 233, 90)',
+    borderBottom: '2px solid rgb(235, 233, 90)',
     fontWeight: '600'
   };
   return (

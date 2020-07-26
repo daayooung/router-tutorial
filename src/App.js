@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Link, Switch } from 'react-router-dom';
+import { Route, NavLink, Switch } from 'react-router-dom';
 import About from './About';
 import Home from './Home';
 import Profiles from './Profiles';
@@ -10,16 +10,18 @@ const App = () => {
     <div>
       <ul>
         <li>
-          <Link to="/">홈</Link>
+          <NavLink to="/" exact>
+            홈
+          </NavLink>
         </li>
         <li>
-          <Link to="/about">영화 소개</Link>
+          <NavLink to="/about">영화 소개</NavLink>
         </li>
         <li>
-          <Link to="/profiles">등장인물</Link>
+          <NavLink to="/profiles">등장인물</NavLink>
         </li>
         <li>
-          <Link to="/history">히스토리</Link>
+          <NavLink to="/history">히스토리</NavLink>
         </li>
       </ul>
       <hr />

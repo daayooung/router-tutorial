@@ -6,7 +6,7 @@ const data = {
     name: '해리포터',
     description: '조앤 K. 롤링의 소설 《해리포터》 시리즈의 주인공이다.',
     image:
-      'https://lh3.googleusercontent.com/proxy/G4KuJthl7E_Y_X_4wYalU7wsO9EfyL7KdlLV42zuucughdgdgDHNqoTUBS3O5LeNUD62-soPXdXYMsJ6QwUpmH4tr_GgCLviEQhwqkGp9dE9a58UxRHtwfxnxh-82mgH42xmByDiwFSzM40utxqyW7FBp3CZ3B91OBmeqnnVWyccthHnbt-sNlxE8p8yyzFM5LzaBElJaeM1ZG7fXrsARbJg3TahELU2ugpxidGpkSHPCJ1vpxw6fZYuyygyxRrq8hoav1DjMBpBCDmft8w42n7AD91_ZxkACbz4l-eNxD7hOHHaWtZPDndlH5Xrjc4B-f6P8GNZj_sbGDYVCojAqwAunzRNO9Yt49FFhP1uLNCNbnnm-IBIubsfuDtImEgdOG_WMCcRq_D-LdWoyzNKdYH5H7WvArSNGJmBZsclrMrrcrZC-sRRBaWOzorSub6jYBBPdALGyu_ruwFzloUsxt4ifQ'
+      'https://lh3.googleusercontent.com/proxy/yRG84MB8fqCoCsy825TWPtUl4AXCNJYWCMikDws35N6fE_9ldiOFbdtk1ijLXS5T5XfDCxNHZsUT37MHacB1DvOdQXZTkWz1GEQnEdh2BNczeS_XTZsaUS8hfZqqK-1k6VIeo8d0L8cr7khqIsTcNaXKhZMUlMojxv2fjxohjm1Ff1xYaLArvrrdW6x3ylV-SjUP-Cx0qlBVnmTrkBcx7ha0YcKJBght_1JbnZSjEicp5O9dq014SJJ2WYVxQdQx-vHyURcP_yRuUQgp6wB2gzo6b5FR9Dak8ZrhJzS0GW7FPAeRHIKtoApePuyowd3Sux5aSHoqtF2VNxVC4QKv0kDj44jRVZp3P7CCGTCHbPTi4cjyt_CVpnBqv3qQEUos_tAaRqjarDi3VJObwZDbgg9Q2kkDSbXg9JRwnbYWMW5s4H0ByI_U9-IZ-7LLi55T8MKWZM0vZGzjlX0sF0QXfTgpGw'
   },
   ronweasley: {
     name: '론 위즐리',
