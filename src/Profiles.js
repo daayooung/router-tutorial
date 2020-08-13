@@ -10,7 +10,6 @@ const Profiles = () => {
   };
   return (
     <div>
-      <h3>등장인물 :</h3>
       <ul>
         <li>
           <NavLink activeStyle={activeStyle} to="/profiles/harrypotter">
@@ -24,7 +23,7 @@ const Profiles = () => {
         </li>
       </ul>
 
-      <Route path="/profiles" exact render={() => <div></div>} />
+      <Route path="/profiles" exact render={() => <div />} />
       <Route path="/profiles/:username" component={Profile} />
     </div>
   );

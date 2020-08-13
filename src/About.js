@@ -16,7 +16,7 @@ const About = ({ location }) => {
         이야기를 그리고 있다.
       </p>
       <img
-        src="https://dhgywazgeek0d.cloudfront.net/watcha/image/upload/c_fill,h_700,q_80,w_490/v1526749461/owuddaks65bfs94bop4u.jpg"
+        src={require('./images/owuddaks65bfs94bop4u.jpg')}
         alt="영화 해리포터 포스터"
         style={{ width: '470px' }}
       ></img>
